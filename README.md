@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Julián Fernández Bonder
-- **Clases prácticas:** Carolina Mosquera, Felipe Marceca
+# Análisis Real — Primer cuatrimestre de 2017
 
 ## Prácticas
 
